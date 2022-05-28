@@ -1,0 +1,34 @@
+---
+title: UserCSS
+permalink: /UserCSS/
+Icon: https://github.com/openstyles/stylus/blob/master/images/icon/128.png?raw=true
+IconAlt: Stylus Icon
+
+layout: Secondary
+type: Little
+---
+
+<div>
+	{% for Category in site.data.UserCSS_Categories %}
+		<h3 id="{{ Category }}" class="Left Block_Header">{{ Category }}</h3>
+		{% for Style in site.data.UserCSS %}
+			{% if Style.Category == Category %}
+				<div id="{{ Style.Code }}" class="Block">
+					<ul class="Contact">
+						<li class="Contact_Item Contact_Icon Icon_Content"><img class="Icon" src="{{ Style.Icon }}" alt="{{ Style.IconAlt }}"/></li>
+						<li class="Contact_Item Place_Center"><a class="NoUnderline" href="{{ Style.Url }}">{{ Style.Name }}</a></li>
+						<li class="Contact_Item Place_Right"><a href="{{ Style.Install }}">Install</a></li>
+					</ul>
+					{% unless Style.Thumbnail == empty %}
+						<a href="{{ Style.Preview }}">
+							<img class="FitImg PlaceImg RoundImg" src="{{ Style.Thumbnail }}" alt="{% if Style.ThumbnailAlt == empty %}Preview{% else %}{{ Style.ThumbnailAlt }}{% endif %}"/>
+						</a>
+					{% endunless %}
+					{% unless Style.Description == empty %}
+						<div class="Left">{{ Style.Description }}</div>
+					{% endunless %}
+				</div>
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+</div>

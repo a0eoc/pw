@@ -1,0 +1,22 @@
+---
+title: Management links
+permalink: /ManagementLinks/
+Icon: ""
+IconAlt: ""
+
+layout: Secondary
+type: Little
+---
+
+<div>
+	<ul class="Block">
+		{% for ManagementLink in site.data.ManagementLinks %}
+		<li class="Block_Item">
+			<ul class="Contact">
+				<li class="Contact_Item Contact_Icon Icon_Content"><img class="Icon" src="{{ ManagementLink.Icon }}" alt="{{ ManagementLink.IconAlt }}"></li>
+				<li class="Contact_Item Contact_Item"><a class="NoUnderline" href="{{ ManagementLink.Url }}">{{ ManagementLink.Name }}</a></li>
+			</ul>
+		</li>
+		{% endfor %}
+	</ul>
+</div>

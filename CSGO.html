@@ -1,0 +1,28 @@
+---
+title: "CS: GO Updates Tracking Links"
+permalink: /CSGO/
+Icon: https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/730/d1159d1a4d0e18da4d74f85dbb4934d7a92ace2b.ico
+IconAlt: "CS: GO icon"
+
+layout: Secondary
+type: Little
+---
+
+<div class="Left">
+	{% for Category in site.data.CSGO_Categories %}
+	<ul class="Block">
+		{% for Link in site.data.CSGO %}
+		{% if Link.Category == Category %}
+		<li class="Block_Item">
+			<ul class="Contact">
+				<li class="Contact_Item Contact_Icon Icon_Content"><img class="Icon" src="{{ Link.Icon }}" alt="{{ Link.IconAlt }}"></li>
+				<li class="Contact_Item Contact_Item"><a class="NoUnderline" href="{{ Link.Url }}">{{ Link.Name }}</a></li>
+			</ul>
+		</li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+	{% endfor %}
+
+	0eoc.pw is not affiliated with Valve or Steam.
+</div>

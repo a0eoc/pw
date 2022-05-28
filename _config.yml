@@ -1,0 +1,16 @@
+title: θ̫͑͋ε̧̊̄ó̪̒͝ς
+description: 0eoc
+url: "https://0eoc.pw"
+
+exclude:
+  - .vs/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/	
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

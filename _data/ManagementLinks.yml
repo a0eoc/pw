@@ -1,0 +1,9 @@
+﻿- Name        : "Main Repo"
+  Url         : https://github.com/a0eoc/a0eoc.github.io
+  Icon        : https://github.githubassets.com/favicons/favicon-dark.svg
+  IconAlt     : "GitHub icon"
+
+- Name        : "Cloudflare Dash"
+  Url         : https://dash.cloudflare.com/
+  Icon        : https://dash.cloudflare.com/favicon-196x196.png
+  IconAlt     : "Cloudflare icon"

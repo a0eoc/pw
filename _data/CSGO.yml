@@ -1,0 +1,105 @@
+- Name     : Blog posts
+  Url      : https://blog.counter-strike.net/
+  Category : Blog
+  Icon     : https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/favicon.ico
+  IconAlt  : "CS: GO Site icon"
+
+- Name     : Updates in Blog
+  Url      : https://blog.counter-strike.net/index.php/category/updates/
+  Category : Blog
+  Icon     : https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/favicon.ico
+  IconAlt  : "CS: GO Site icon"
+
+
+- Name     : Steam page
+  Url      : https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/
+  Category : Steam
+  Icon     : https://store.steampowered.com/favicon.ico
+  IconAlt  : "CS: GO Site icon"
+
+- Name     : Steam Store news
+  Url      : https://store.steampowered.com/news/app/730
+  Category : Steam
+  Icon     : https://store.steampowered.com/favicon.ico
+  IconAlt  : "Steam icon"
+
+- Name     : Steam Community news
+  Url      : https://steamcommunity.com/app/730/allnews/
+  Category : Steam
+  Icon     : https://store.steampowered.com/favicon.ico
+  IconAlt  : "Steam icon"
+
+
+- Name     : SteamDB main app History
+  Url      : https://steamdb.info/app/730/history/
+  Category : Main
+  Icon     : https://steamdb.info/static/logos/vector_prefers_schema.svg
+  IconAlt  : "SteamDB icon"
+
+- Name     : SteamDB main app Patchnotes & Builds heatmap
+  Url      : https://steamdb.info/app/730/patchnotes/
+  Category : Main
+  Icon     : https://steamdb.info/static/logos/vector_prefers_schema.svg
+  IconAlt  : "SteamDB icon"
+
+- Name     : SteamDB main app Game
+  Url      : https://github.com/SteamDatabase/GameTracking-CSGO/commits/master
+  Category : Main
+  Icon     : https://github.githubassets.com/favicons/favicon-dark.svg
+  IconAlt  : "GitHub icon"
+
+- Name     : ConVars VAC/Game bans tracking
+  Url      : https://convars.com/csgostats/en/bans
+  Category : Main
+  Icon     : https://convars.com/favicon.ico
+  IconAlt  : "ConVars icon"
+
+
+- Name     : SteamDB DS app History
+  Url      : https://steamdb.info/app/741/history/
+  Category : Dev
+  Icon     : https://steamdb.info/static/logos/vector_prefers_schema.svg
+  IconAlt  : "SteamDB icon"
+
+- Name     : SteamDB Beta app History
+  Url      : https://steamdb.info/app/710/history/
+  Category : Dev
+  Icon     : https://steamdb.info/static/logos/vector_prefers_schema.svg
+  IconAlt  : "SteamDB icon"
+
+- Name     : SteamDB Beta devs in-game
+  Url      : https://steamdb.info/app/710/graphs/
+  Category : Dev
+  Icon     : https://steamdb.info/static/logos/vector_prefers_schema.svg
+  IconAlt  : "SteamDB icon"
+
+- Name     : Official CS:GO Account Workshop
+  Url      : https://steamcommunity.com/profiles/76561198082857351/myworkshopfiles/
+  Category : Dev
+  Icon     : https://store.steampowered.com/favicon.ico
+  IconAlt  : "Steam icon"
+
+
+- Name     : Main game Twitter
+  Url      : https://twitter.com/csgo
+  Category : Speculations
+  Icon     : https://about.twitter.com/etc/designs/about2-twitter/public/img/favicon-32x32.png
+  IconAlt  : "Twitter icon"
+
+- Name     : PerfectWorld Twitter
+  Url      : https://twitter.com/cperfectworld
+  Category : Speculations
+  Icon     : https://about.twitter.com/etc/designs/about2-twitter/public/img/favicon-32x32.png
+  IconAlt  : "Twitter icon"
+
+- Name     : SubReddit
+  Url      : https://www.reddit.com/r/GlobalOffensive/
+  Category : Speculations
+  Icon     : https://www.redditinc.com/assets/images/favicons/android-icon-192x192.png
+  IconAlt  : "Reddit icon"
+
+- Name     : Instagram
+  Url      : https://www.instagram.com/csgo_dev/
+  Category : Speculations
+  Icon     : https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png
+  IconAlt  : "Instagram icon"

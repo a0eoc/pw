@@ -1,0 +1,19 @@
+---
+layout: Page
+---
+
+<article class="Secondary {{ page.type }}">
+	<a class="NoUnderline" href="{{ page.permalink }}">
+		<ul class="WrapPanel CentredContent">
+			{% unless page.Icon == empty %}
+			<li class="Contact_Item Contact_Icon Icon_Content">
+				<img class="Icon" src="{{ page.Icon }}" alt="{% if page.IconAlt == empty %}{{ page.title }} icon{% else %}{{ page.IconAlt }}{% endif %}">
+			</li>
+			{% endunless %}
+			<li class="Contact_Item"><h2>{{ page.title }}</h2></li>
+		</ul>
+	</a>
+	{{ content }}
+</article>
+
+{% include Bottom.html %}

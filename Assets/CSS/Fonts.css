@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+* {
+	box-sizing: inherit;
+	font-family: Manrope, Roboto, "Segoe UI", sans-serif, -apple-system, BlinkMacSystemFont, Arial;
+}
+
+body {
+	text-align: center;
+	font-size: 16px;
+	color: #EEEEEE;
+}
+
+h3 {
+	font-size: 20px;
+}

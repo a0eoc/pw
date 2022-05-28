@@ -1,0 +1,323 @@
+html {
+	scroll-behavior: smooth;
+	scrollbar-face-color: #575963;
+	scrollbar-base-color: #575963;
+	scrollbar-3dlight-color: #575963;
+	scrollbar-highlight-color: #575963;
+	scrollbar-track-color: #000;
+	scrollbar-arrow-color: #000;
+	scrollbar-shadow-color: #575963;
+	scrollbar-dark-shadow-color: #575963;
+}
+
+::-webkit-scrollbar {
+	width: 8px;
+	height: 3px;
+}
+
+::-webkit-scrollbar-button {
+	background-color: #595C66;
+}
+
+::-webkit-scrollbar-track {
+	background-color: #575963;
+}
+
+::-webkit-scrollbar-track-piece {
+	background-color: #000;
+}
+
+::-webkit-scrollbar-thumb {
+	height: 50px;
+	background-color: #595C66;
+	border-radius: 3px;
+}
+
+::-webkit-scrollbar-corner {
+	background-color: #575963;
+}
+
+::-webkit-resizer {
+	background-color: #595C66;
+}
+
+.Page {
+	position: relative;
+	overflow-x: hidden;
+	padding: 0;
+	margin: 0;
+	display: -webkit-box;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	flex-direction: column;
+	-webkit-box-pack: justify;
+	justify-content: space-between;
+}
+
+@media screen and (max-width: 1000px) {
+	h1 {
+		font-size: 37vw;
+	}
+
+	article {
+		padding: 0 5px;
+		max-width: 100vw;
+	}
+}
+
+@media screen and (min-width: 1001px) {
+	h1 {
+		font-size: 300px;
+	}
+
+	article.Common {
+		padding: 0 25%;
+	}
+
+	article.Little {
+		padding: 0 30%;
+	}
+}
+
+.GigaHeader {
+	color: #000000;
+	opacity: 1;
+	animation: Shadow_Glow_Animation 10s linear infinite;
+}
+
+.Shadow_Glow {
+	animation: Shadow_Glow_Animation 10s linear infinite;
+}
+
+@keyframes Shadow_Glow_Animation {
+	0% {
+		text-shadow: 0 0 12.5px #ab8aff
+	}
+
+	25% {
+		text-shadow: 0 0 12.5px #9a67ff
+	}
+
+	50% {
+		text-shadow: 0 0 12.5px #8aa3ff
+	}
+
+	75% {
+		text-shadow: 0 0 12.5px #ff97f7
+	}
+
+	100% {
+		text-shadow: 0 0 12.5px #ab8aff
+	}
+}
+
+
+.Fullscreen {
+	min-height: 100vh;
+}
+
+.Primary {
+	background: #040405;
+}
+.Secondary {
+	background: #202124;
+}
+
+
+.Left {
+	text-align: left;
+}
+
+.BigInfoBlock {
+	margin: 15px 0 40px 0;
+}
+
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #202124;
+}
+
+
+a {
+	color: #EEEEEE;
+}
+
+	a:active, a:hover {
+		color: #B39DDB;
+	}
+
+.WrapPanel {
+	list-style: none;
+}
+
+.CentredContent {
+	margin: 0 auto;
+	padding: 0;
+	width: fit-content;
+}
+
+.WrapPanel_Item {
+	display: inline-block;
+}
+
+.Block {
+	margin: 0 0 20px 0;
+	padding: 10px 10px 6px 10px;
+	list-style: none;
+	border-radius: 20px;
+	background: #2C2D32;
+}
+
+.Block_Header {
+	margin: 0 0 10px 0;
+}
+
+.Block_Item {
+	display: inline-block;
+	width: 100%;
+	padding: 1px 0;
+	margin: 0;
+}
+
+.Contact {
+	display: table;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.Contact_Item {
+	vertical-align: middle;
+	display: table-cell;
+}
+
+.Contact_MiniIcon {
+	width: 50px;
+}
+
+.MiniIcon {
+	height: 50px;
+	width: 50px;
+	vertical-align: middle;
+}
+
+.Circle {
+	border-radius: 50%;
+}
+.FitImg {
+	width: 100%;
+}
+.PlaceImg {
+	margin: 10px 0 0 0;
+}
+.RoundImg {
+	border-radius: 10px;
+}
+
+.Contact_Name {
+	height: 25px;
+	width: 100px;
+	padding: 12.5px 0;
+	text-align: left;
+}
+
+.Contact_Icon {
+	width: 25px;
+}
+
+.Icon_Content {
+	padding: 0px 10px 0px 0px;
+}
+
+.Icon {
+	height: 25px;
+	width: 25px;
+	vertical-align: middle;
+}
+
+
+.Place_Center {
+	text-align: center;
+	width: 100%;
+}
+
+.Place_Right {
+	text-align: right;
+}
+
+
+.Contact_Contact {
+	height: 25px;
+	width: 100px;
+	padding: 12.5px 0;
+	text-align: right;
+}
+
+.Contact_Uncontact {
+	height: 25px;
+	width: max-content;
+	padding: 12.5px 0;
+	text-align: right;
+}
+
+.Bottom {
+	margin: 0;
+}
+
+ul.BMenu {
+	margin: 0;
+	padding: 0;
+	justify-content: center;
+	list-style: none;
+	display: flex;
+}
+
+li.HItem {
+	display: inline-block;
+	padding: 0 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.BItem {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.BottomBlocks {
+	width: fit-content;
+	word-break: keep-all;
+	margin: 0 25px;
+	padding: 0 0 25px 0;
+	text-align: left;
+	list-style: none;
+}
+
+.License {
+	margin: 10px 0 0 0;
+	font-size: 10px;
+	overflow-wrap: anywhere;
+	color: #BDBDBD;
+}
+
+.NoUnderline {
+	text-decoration: none;
+}
+.Gray {
+	font-size: 1px;
+	color: #BDBDBD;
+}
+.Accent {
+	color: #B39DDB;
+}
+
+hr {
+	border-top: 0px;
+	border-bottom: 2px solid #7E57C2;
+	width: 100%;
+}

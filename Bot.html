@@ -1,0 +1,28 @@
+---
+title: Bot
+permalink: /Bot/
+Icon: https://c.0eoc.pw/bot_logo_main_384
+IconAlt: θ̫͖͑͋ε̧̺̊̄ó̪̱̒͝ς bot icon
+
+layout: Secondary
+type: Little
+---
+
+<div>
+	{% for Category in site.data.Bot_Categories %}
+		<h3 class="Left Block_Header">{{ Category.Name }}</h3>
+		<ul class="Block">
+			{% for Link in site.data.Bot %}
+				{% if Link.Category == Category.Code %}
+					<li class="Block_Item">
+						<ul class="Contact">
+							<li class="Contact_Item Contact_MiniIcon"><img class="MiniIcon Circle" src="{{ Link.Icon }}" alt="{{ Link.IconAlt }}"></li>
+							<li class="Contact_Item Contact_Item">{{ Link.Name }}</li>
+							<li class="Contact_Item Contact_Contact"><a href="{{ Link.Url }}">{{ Link.Description }}</a></li>
+						</ul>
+					</li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+	{% endfor %}
+</div>

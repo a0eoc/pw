@@ -1,0 +1,72 @@
+﻿- Name         : "Enhancements for VK"
+  Code         : "Enhancements-for-VK"
+  Category     : Active
+  Icon         : https://vk.com/images/icons/favicons/fav_logo.ico
+  IconAlt      : "VK icon"
+  Thumbnail    : https://github.com/a0eoc/UserCSS/raw/main/VK.com/Enhancements_Preview_Thumbnail.png
+  Preview      : https://raw.githubusercontent.com/a0eoc/UserCSS/main/VK.com/Enhancements_Preview.png
+  ThumbnailAlt : ""
+  Description  : ""
+  Url          : https://github.com/a0eoc/UserCSS/blob/main/VK.com/Enhancements.user.css
+  Install      : https://github.com/a0eoc/UserCSS/raw/main/VK.com/Enhancements.user.css
+
+- Name         : "Enhancements for YouTube"
+  Code         : "Enhancements-for-YouTube"
+  Category     : Active
+  Icon         : https://developers.google.com/site-assets/logo-youtube.svg
+  IconAlt      : "YouTube icon"
+  Thumbnail    : ""
+  Preview      : ""
+  ThumbnailAlt : ""
+  Description  : ""
+  Url          : https://github.com/a0eoc/UserCSS/blob/main/YouTube.com/Enhancements.user.css
+  Install      : https://github.com/a0eoc/UserCSS/raw/main/YouTube.com/Enhancements.user.css
+
+
+- Name         : "VDARK"
+  Code         : "VDARK"
+  Category     : Archive
+  Icon         : https://vk.com/images/icons/favicons/fav_logo.ico
+  IconAlt      : "VK icon"
+  Thumbnail    : https://github.com/a0eoc/VDARK/blob/master/public/preview/1_Thumbnail.png?raw=true
+  Preview      : https://github.com/a0eoc/VDARK/blob/master/public/preview/1.png?raw=true
+  ThumbnailAlt : ""
+  Description  : "Deprecated due to official dark \"mode\""
+  Url          : https://github.com/a0eoc/VDARK
+  Install      : https://github.com/a0eoc/VDARK/raw/master/vdark.user.css
+
+- Name         : "VK | Hide Catalog Button"
+  Code         : "VK-Hide-Catalog-Button"
+  Category     : Archive
+  Icon         : https://vk.com/images/icons/favicons/fav_logo.ico
+  IconAlt      : "VK icon"
+  Thumbnail    : https://github.com/a0eoc/UserCSS/raw/c5bac5afa81672152560052a205e4d4de88967d0/VK.com/Hide-Catalog-Button_Preview_Thumbnail.png
+  Preview      : https://github.com/a0eoc/UserCSS/blob/c5bac5afa81672152560052a205e4d4de88967d0/VK.com/Hide-Catalog-Button_Preview.png?raw=true
+  ThumbnailAlt : ""
+  Description  : "Merged to <a href=\"#Enhancements-for-VK\">Enhancements for VK</a>"
+  Url          : https://github.com/a0eoc/UserCSS/blob/c5bac5afa81672152560052a205e4d4de88967d0/VK.com/Hide-Catalog-Button.user.css
+  Install      : https://github.com/a0eoc/UserCSS/raw/c5bac5afa81672152560052a205e4d4de88967d0/VK.com/Hide-Catalog-Button.user.css
+
+- Name         : "VK | Hide FastChat"
+  Code         : "VK-Hide-FastChat"
+  Category     : Archive
+  Icon         : https://vk.com/images/icons/favicons/fav_logo.ico
+  IconAlt      : "VK icon"
+  Thumbnail    : https://github.com/a0eoc/UserCSS/blob/c5bac5afa81672152560052a205e4d4de88967d0/VK.com/Hide-FastChat_Preview_Thumbnail.png?raw=true
+  Preview      : https://github.com/a0eoc/UserCSS/blob/c5bac5afa81672152560052a205e4d4de88967d0/VK.com/Hide-FastChat_Preview.png?raw=true
+  ThumbnailAlt : ""
+  Description  : "Merged to <a href=\"#Enhancements-for-VK\">Enhancements for VK</a>"
+  Url          : https://github.com/a0eoc/UserCSS/blob/c5bac5afa81672152560052a205e4d4de88967d0/VK.com/Hide-FastChat.user.css
+  Install      : https://github.com/a0eoc/UserCSS/raw/c5bac5afa81672152560052a205e4d4de88967d0/VK.com/Hide-FastChat.user.css
+
+- Name         : "VK | Hide Posts Reactions"
+  Code         : "VK-Hide-Posts-Reactions"
+  Category     : Archive
+  Icon         : https://vk.com/images/icons/favicons/fav_logo.ico
+  IconAlt      : "VK icon"
+  Thumbnail    : https://github.com/a0eoc/UserCSS/blob/c5bac5afa81672152560052a205e4d4de88967d0/VK.com/Hide-Posts-Reactions_Preview_Thumbnail.png?raw=true
+  Preview      : https://github.com/a0eoc/UserCSS/blob/c5bac5afa81672152560052a205e4d4de88967d0/VK.com/Hide-Posts-Reactions_Preview.png?raw=true
+  ThumbnailAlt : ""
+  Description  : "Merged to <a href=\"#Enhancements-for-VK\">Enhancements for VK</a>"
+  Url          : https://github.com/a0eoc/UserCSS/blob/c5bac5afa81672152560052a205e4d4de88967d0/VK.com/Hide-Posts-Reactions.user.css
+  Install      : https://github.com/a0eoc/UserCSS/raw/c5bac5afa81672152560052a205e4d4de88967d0/VK.com/Hide-Posts-Reactions.user.css
