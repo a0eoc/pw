@@ -73,6 +73,12 @@
   Icon     : https://steamdb.info/static/logos/vector_prefers_schema.svg
   IconAlt  : "SteamDB icon"
 
+- Name     : Devs in-game tracking Telegram channel
+  Url      : https://t.me/csdve
+  Category : Dev
+  Icon     : https://telegram.org/img/website_icon.svg
+  IconAlt  : "Telegram icon"
+
 - Name     : Official CS:GO Account Workshop
   Url      : https://steamcommunity.com/profiles/76561198082857351/myworkshopfiles/
   Category : Dev
