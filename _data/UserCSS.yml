@@ -70,3 +70,15 @@
   Description  : "Merged to <a href=\"#Enhancements-for-VK\">Enhancements for VK</a>"
   Url          : https://github.com/a0eoc/UserCSS/blob/c5bac5afa81672152560052a205e4d4de88967d0/VK.com/Hide-Posts-Reactions.user.css
   Install      : https://github.com/a0eoc/UserCSS/raw/c5bac5afa81672152560052a205e4d4de88967d0/VK.com/Hide-Posts-Reactions.user.css
+
+- Name         : "YouTube | Hide Newness Dots"
+  Code         : "YT-Hide-Newness-Dots"
+  Category     : Archive
+  Icon         : https://developers.google.com/site-assets/logo-youtube.svg
+  IconAlt      : "YouTube icon"
+  Thumbnail    : https://github.com/a0eoc/UserCSS/raw/f8dd6888ceacb15dd1328e3de37b0c2b8d83941d/YouTube.com/Hide-Newness-Dots_Preview_Thumbnail.png
+  Preview      : https://github.com/a0eoc/UserCSS/raw/f8dd6888ceacb15dd1328e3de37b0c2b8d83941d/YouTube.com/Hide-Newness-Dots_Preview.png
+  ThumbnailAlt : ""
+  Description  : "Merged to <a href=\"#Enhancements-for-YouTube\">Enhancements for YouTube</a>"
+  Url          : https://github.com/a0eoc/UserCSS/blob/f8dd6888ceacb15dd1328e3de37b0c2b8d83941d/YouTube.com/Hide-Newness-Dots.user.css
+  Install      : https://github.com/a0eoc/UserCSS/raw/f8dd6888ceacb15dd1328e3de37b0c2b8d83941d/YouTube.com/Hide-Newness-Dots.user.css
