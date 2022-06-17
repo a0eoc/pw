@@ -55,6 +55,11 @@ html {
 	justify-content: space-between;
 }
 
+.flip_h {
+	display: inline-block;
+	transform: scale(-1, 1);
+}
+
 @media screen and (max-width: 1000px) {
 	h1 {
 		font-size: 37vw;
