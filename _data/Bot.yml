@@ -2,28 +2,28 @@
   Description : "@csdve"
   Url         : https://t.me/csdve
   Category    : TG_ENG
-  Icon        : https://c.0eoc.pw/bot_logo_710D_384
+  Icon        : /Images/Bot/384/devs.png
   IconAlt     : "CS: GO devs activity channel icon"
 
 - Name        : "Many CS: GO Devs"
   Description : "@csmde"
   Url         : https://t.me/csmde
   Category    : TG_ENG
-  Icon        : https://c.0eoc.pw/bot_logo_710M_384
+  Icon        : /Images/Bot/384/manydevs.png
   IconAlt     : "High CS: GO devs activity channel icon"
 
 - Name        : "CS: GO Client Updates"
   Description : "@csupd"
   Url         : https://t.me/csupd
   Category    : TG_ENG
-  Icon        : https://c.0eoc.pw/bot_logo_730U_384
+  Icon        : /Images/Bot/384/clientupdate.png
   IconAlt     : "CS: GO client updates channel icon"
 
 - Name        : "CS: GO Servers Updates"
   Description : "@srvupd"
   Url         : https://t.me/srvupd
   Category    : TG_ENG
-  Icon        : https://c.0eoc.pw/bot_logo_730S-U_384
+  Icon        : /Images/Bot/384/serversupdate.png
   IconAlt     : "CS: GO servers updates channel icon"
 
 
@@ -31,56 +31,56 @@
   Description : "@t0c_bot"
   Url         : https://t.me/t0c_bot
   Category    : TG_RUS
-  Icon        : https://c.0eoc.pw/bot_logo_main_384
+  Icon        : /Images/Bot/384/main.png
   IconAlt     : "Иконка θ̫͖͑͋ε̧̺̊̄ó̪̱̒͝ς"
 
 - Name        : "Новости и обновления сервиса"
   Description : "@a0eoc"
   Url         : https://t.me/a0eoc
   Category    : TG_RUS
-  Icon        : https://c.0eoc.pw/bot_logo_news_384
+  Icon        : /Images/Bot/384/news.png
   IconAlt     : "Иконка канала с новостями представленных сервисов"
 
 - Name        : "Обсуждение"
   Description : "@c0eoc"
   Url         : https://t.me/c0eoc
   Category    : TG_RUS
-  Icon        : https://c.0eoc.pw/bot_logo_chat_384
+  Icon        : /Images/Bot/384/chat.png
   IconAlt     : "Иконка чата с обсуждением представленных сервисов"
 
 - Name        : "Разрабы CS: GO"
   Description : "@csdvr"
   Url         : https://t.me/csdvr
   Category    : TG_RUS
-  Icon        : https://c.0eoc.pw/bot_logo_710D_384
+  Icon        : /Images/Bot/384/devs.png
   IconAlt     : "Иконка канала с уведомлениями об активности разработчиков во внутренней бета-версии CS: GO"
 
 - Name        : "Много разрабов CS: GO"
   Description : "@csmds"
   Url         : https://t.me/csmds
   Category    : TG_RUS
-  Icon        : https://c.0eoc.pw/bot_logo_710M_384
+  Icon        : /Images/Bot/384/manydevs.png
   IconAlt     : "Иконка канала с уведомлениями о повышенной активности разработчиков во внутренней бета-версии CS: GO"
 
 - Name        : "Статус сервисов Valve"
   Description : "@cssrv"
   Url         : https://t.me/cssrv
   Category    : TG_RUS
-  Icon        : https://c.0eoc.pw/bot_logo_730S_384
+  Icon        : /Images/Bot/384/serversproblem.png
   IconAlt     : "Иконка канала с уведомлениями об изменениях в статусе доступности сервисов Valve"
 
 - Name        : "Обновления клиента CS: GO"
   Description : "@csupds"
   Url         : https://t.me/csupds
   Category    : TG_RUS
-  Icon        : https://c.0eoc.pw/bot_logo_730U_384
+  Icon        : /Images/Bot/384/clientupdate.png
   IconAlt     : "Иконка канала с уведомлениями об обновлениях клиента CS: GO"
 
 - Name        : "Обновления серверов CS: GO"
   Description : "@srvupds"
   Url         : https://t.me/srvupds
   Category    : TG_RUS
-  Icon        : https://c.0eoc.pw/bot_logo_730S-U_384
+  Icon        : /Images/Bot/384/serversupdate.png
   IconAlt     : "Иконка канала с уведомлениями об обновлениях серверов CS: GO"
 
 
@@ -88,19 +88,19 @@
   Description : "@b0eoc"
   Url         : https://vk.com/im?&sel=-206678595
   Category    : VK_RUS
-  Icon        : https://c.0eoc.pw/bot_logo_main_384
+  Icon        : /Images/Bot/384/main.png
   IconAlt     : "Иконка θ̫͖͑͋ε̧̺̊̄ó̪̱̒͝ς"
 
 - Name        : "Новости и обновления сервиса"
   Description : "Группа"
   Url         : https://vk.com/b0eoc
   Category    : VK_RUS
-  Icon        : https://c.0eoc.pw/bot_logo_news_384
+  Icon        : /Images/Bot/384/news.png
   IconAlt     : "Иконка группы ВК"
 
 - Name        : "Обсуждение"
   Description : "Беседа"
   Url         : https://c.0eoc.pw/bot_vk_chat
   Category    : VK_RUS
-  Icon        : https://c.0eoc.pw/bot_logo_chat_384
+  Icon        : /Images/Bot/384/chat.png
   IconAlt     : "Иконка беседы ВК"
